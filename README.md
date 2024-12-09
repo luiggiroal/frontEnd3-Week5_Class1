@@ -2,6 +2,7 @@
 
 Class activity about the Lifecycle of a component using `useEffect()`.
 
+![Screenshot](./src/assets/screenshot1.png)
 ![Screenshot](./src/assets/screenshot.png)
 
 By ***Luiggi Rodríguez Aliaga***
